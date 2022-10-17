@@ -24,4 +24,20 @@ header a:hover{
 .aboutMe{
     background-color: #F6F6F6;;
 }
+.skills .container .row .pic4 img{
+    height: 88.4130859375px;
+    width: 89.07325744628906px;
+    left: 294.22119140625px;
+    top: 1566.646484375px;
+    border-radius: 0px;
+}
+.main .pic img{
+    height: 600px;
+}
+.contacts .container a{
+    color: white;
+}
+.contacts .container .row .logo img{
+    width: 40px;
 
+}
